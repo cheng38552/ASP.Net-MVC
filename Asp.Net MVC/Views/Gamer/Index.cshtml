@@ -1,0 +1,24 @@
+﻿@using OnlineGame.Web.Models;
+@model List<Gamer>
+@{
+    ViewBag.Title = "Gamers List";
+}
+<div style="font-family: Arial">
+    <h2>@ViewBag.Title.ToString()</h2>
+    @foreach (Gamer gamer in Model)
+    {
+        <ul>
+            <li>
+                Team Id: @gamer.TeamId
+            </li>
+            <li>
+                Gamer Id: @gamer.Id
+            </li>
+            <li>
+                Name: @Html.ActionLink(gamer.Name, "Details", "Gamer", new { id = gamer.Id }, null)
+            </li>
+        </ul>
+        <br />
+    }
+</div>
+@Html.ActionLink("Back to Gamers List", "Index", "Team")

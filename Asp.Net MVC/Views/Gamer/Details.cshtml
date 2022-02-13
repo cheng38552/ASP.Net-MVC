@@ -1,0 +1,15 @@
+﻿@using OnlineGame.Web.Models;
+@model Gamer
+@{
+    ViewBag.Title = "Gamer Details";
+}
+<h2>Gamer Details</h2>
+<ul>
+    <li>Id: @Model.Id</li>
+    <li>Name: @Model.Name</li>
+    <li>Gender: @Model.Gender</li>
+    <li>City: @Model.City</li>
+    <li>DateOfBirth: @Model.DateOfBirth</li>
+    <li>TeamId: @Model.TeamId</li>
+</ul>
+@Html.ActionLink("Back to Gamers List", "Index", "Gamer", new { teamId = Model.TeamId }, null)
