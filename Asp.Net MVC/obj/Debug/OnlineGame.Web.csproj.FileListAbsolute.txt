@@ -80,3 +80,6 @@ D:\Code Learning\ASP.Net-MVC\Asp.Net MVC\obj\Debug\OnlineGame.Web.csproj.CoreCom
 D:\Code Learning\ASP.Net-MVC\Asp.Net MVC\obj\Debug\OnlineGame.Web.csproj.CopyComplete
 D:\Code Learning\ASP.Net-MVC\Asp.Net MVC\obj\Debug\Asp.Net MVC.dll
 D:\Code Learning\ASP.Net-MVC\Asp.Net MVC\obj\Debug\Asp.Net MVC.pdb
+D:\Code Learning\ASP.Net-MVC\Asp.Net MVC\bin\BusinessLayer.dll
+D:\Code Learning\ASP.Net-MVC\Asp.Net MVC\bin\BusinessLayer.pdb
+D:\Code Learning\ASP.Net-MVC\Asp.Net MVC\bin\BusinessLayer.dll.config

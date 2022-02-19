@@ -1,0 +1,12 @@
+D:\Code Learning\ASP.Net-MVC\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\Code Learning\ASP.Net-MVC\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Code Learning\ASP.Net-MVC\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Code Learning\ASP.Net-MVC\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Code Learning\ASP.Net-MVC\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code Learning\ASP.Net-MVC\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Code Learning\ASP.Net-MVC\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code Learning\ASP.Net-MVC\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Code Learning\ASP.Net-MVC\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Code Learning\ASP.Net-MVC\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\Code Learning\ASP.Net-MVC\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Code Learning\ASP.Net-MVC\BusinessLayer\obj\Debug\BusinessLayer.pdb
